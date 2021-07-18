@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dbountydp
+- 👋 Hi, I’m Dhanwan Prajpati
 - 👀 I’m interested in python Web Devlopment, web scrapping
 - 🌱 I’m currently learning python django
 
